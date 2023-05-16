@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there, I'm Yunus 👋
 
-<!--
-**yunusj/yunusj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a seasoned software developer and tech enthusiast who thrives on creating tools & solutions for builders and creators. With a history of leading enterprise teams and creating products from scratch, I've had the joy of witnessing my website builder power over 200,000 websites and my cloud security product secure over 3000 servers and instances daily. 🚀
 
-Here are some ideas to get you started:
+## ✨ My Gold Stars 
+- **RadicalX:** A Gamified Developers Upskilling platform 📚
+- **Cloudnosys:** A Cloud Security, Compliance & Automation platform 🛡️
+- **Timegram:** A Team management and tracking system ⏰
+- **Prostyler:** A no-code website builder 🌐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 My Public Repositories
+- [SmartOffice](https://github.com/yunusj/smartOffice) 🏢
+- [Cloud RBAC](v2 coming soon) ☁️
+- [Stencilor Landing Page](https://github.com/yunusj/stencilor-landing-page) 🎨
+- [Vessels Management System](Firebase update required) ⛴️
+
+## 🛠️ My Technology Stacks & Skills
+- Google Cloud ☁️
+- AWS Cloud ☁️
+- NodeJS 🟢
+- ReactJS ⚛️
+- Google Firebase 🔥
+- PHP 🐘
+- DevOps 🛠️
+- Cloud Security ☁️🛡️
+
+Feel free to connect with me @ contact@yunusj.com
